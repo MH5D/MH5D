@@ -42,4 +42,4 @@
 
 
 
-<p align="center">⭐ Thanks for visiting! Feel free to follow or reach out.</p>
+<p align="center">“May our paths cross; until then, you are welcome to follow or send word.”</p>
