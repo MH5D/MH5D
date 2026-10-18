@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently building **[ To-do List Web app ]**
-- 🌱 Currently learning **[ Html / Javascript / Git / CSS ]**
+- 🌱 Currently learning **[ HTML / Javascript / Git / CSS ]**
 - 🎯 Looking for **[ Software Engineer / junior frontend INTERSHIP ]**
 - 📫 Reach me at **mohamed.albalushi077@gmail.com**
 
