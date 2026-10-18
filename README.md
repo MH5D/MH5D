@@ -41,8 +41,9 @@
 ---
 
 
- <p align="center">“May our paths cross; until then, you are welcome to follow or send word.”</p>
+<h2 <p align="center">“May our paths cross; until then, you are welcome to follow or send word.”</p> 
+</h2> 
  
-<p align="center">
-  <img width="460" height="300" src="![image alt](https://github.com/MH5D/MH5D/blob/60e04dc3bdb8b0d7489f6c50cf9c17f1a2023a35/8021744fc275101ed9a4b75ace41f168.gif) ">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/MH5D/MH5D/60e04dc3bdb8b0d7489f6c50cf9c17f1a2023a35/8021744fc275101ed9a4b75ace41f168.gif" alt="MH5D animation" width="240" />
 </p>
